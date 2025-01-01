@@ -1,0 +1,11 @@
+{
+  "TEST_CHEM_NEW" : {
+    "geometry" : "1{b[8]u[12]x:}2{r:}",
+    "expected_ori" : "fw",
+    "version" : 0.1.0,
+    "remote_url" : "https://www.github.com",
+    "meta" : {
+      "foo" : "bar"
+    }
+  }
+}
